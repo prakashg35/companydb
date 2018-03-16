@@ -1,0 +1,53 @@
+body{
+//	background: url("Customer.jpg") no-repeat;
+//	background-size: cover;
+	font-family: Arial;	
+	color: white;
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;	
+}
+
+ul li {
+	float: left;
+	width: 320px;
+	height:40 px;
+	line-height:40px;
+	text-align: center;
+	font-size: 20px;
+	background-color: black;
+	
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+	
+}
+
+ul li a:hover{
+	background-color: green;
+}
+ul li ul li {
+	display: none;
+}
+
+ul li:hover ul li {
+	display: block;
+}
+
+h1 {
+	text-align: center;
+	background-color: black;
+	width: 1280px;
+	
+}
+
+
+
+
+
+

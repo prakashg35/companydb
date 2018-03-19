@@ -12,7 +12,7 @@
 	<h1><center> NEW CUSTOMER ENTRY</center> </h1>
 <form action="savecustomer" method="post">
     <fieldset>
-        <legend>Enter New Customer Details</legend>
+        <legend>Enter New Customer Detail</legend>
 	<input type="hidden" name="customerid" value="create">
 		<br>
 		<br>
